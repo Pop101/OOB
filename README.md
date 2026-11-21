@@ -1,2 +1,16 @@
 # OOB
-oobn oob whoobmsoobcoobl oobnoobvoobrsoob whoobroob oobmoobgoobnoobtooboobn rooboobgns soobproobmoob  ooboobB  thoob poobrploob groobnnoobng foobcoob  oobscoobnds toob thoob doobvoobnoob stoobtoobs oobf oob goobdloobkoob foobgoobroob  oobts roobdooboobnt hooboob symboobloobzoobs crooboobtoobvoobty oobnd thoob booboobndloobss poobtoobntooboobl oobf thoob hoobmoobn moobnd  Thoob oobnoobgmoobtoobc groobn oobt wooboobrs moobrroobrs thoob mystoobrooboobs oobf oobxoobstoobncoob  oobntoobcoobng moobrtoobls toob oobxploobroob thoob roobooblms oobf woobndoobr oobnd poobssoobboobloobty  ooboobB oobmboobdooboobs thoob oobssoobncoob oobf jooby  oobnspoobroobng woobrshoobpoobrs toob oobmbroobcoob looboobghtoobr oobnd ploobyfooblnoobss oobs soobcroobd roobtoobs  oobts oobmnoobproobsoobncoob oobn thoob roobooblm oobf oobmoobgoobnoobtooboobn groobnts oobt thoob poobwoobr toob shoobpoob rooboobloobty  wooboobvoobng drooboobms oobntoob toobngoobbloob moobnoobfoobstoobtooboobns  Throoboobgh ooboobB  booblooboobvoobrs foobnd soobloobcoob oobn thoob knoobwloobdgoob thoobt woobthoobn thoob voobst oobxpoobnsoob oobf thoob oobmoobgoobnoobtooboobn  oobnythoobng oobs poobssoobbloob  oobnd oobvoobry moobmoobnt oobs oobnfoobsoobd woobth doobvoobnoob moobgoobc 
+
+![OOB project banner](docs/readme-cover.svg)
+
+## Table of contents
+
+- [Why this fork](#why-this-fork)
+- [Overview](#overview)
+
+## Why this fork
+
+Forked from [NoxNovus/OOB](https://github.com/NoxNovus/OOB). This fork includes the `phoobtos` contribution, which also appears in upstream history. There were no fork-only changes on the default branch at the time of this update.
+
+## Overview
+
+oobn oob whoobmsoobcoobl oobnoobvoobrsoob whoobroob oobmoobgoobnoobtooboobn rooboobgns soobproobmoob  ooboobB  thoob poobrploob groobnnoobng foobcoob  oobscoobnds toob thoob doobvoobnoob stoobtoobs oobf oob goobdloobkoob foobgoobroob  oobts roobdooboobnt hooboob symboobloobzoobs crooboobtoobvoobty oobnd thoob booboobndloobss poobtoobntooboobl oobf thoob hoobmoobn moobnd  Thoob oobnoobgmoobtoobc groobn oobt wooboobrs moobrroobrs thoob mystoobrooboobs oobf oobxoobstoobncoob  oobntoobcoobng moobrtoobls toob oobxploobroob thoob roobooblms oobf woobndoobr oobnd poobssoobboobloobty  ooboobB oobmboobdooboobs thoob oobssoobncoob oobf jooby  oobnspoobroobng woobrshoobpoobrs toob oobmbroobcoob looboobghtoobr oobnd ploobyfooblnoobss oobs soobcroobd roobtoobs  oobts oobmnoobproobsoobncoob oobn thoob roobooblm oobf oobmoobgoobnoobtooboobn groobnts oobt thoob poobwoobr toob shoobpoob rooboobloobty  wooboobvoobng drooboobms oobntoob toobngoobbloob moobnoobfoobstoobtooboobns  Throoboobgh ooboobB  booblooboobvoobrs foobnd soobloobcoob oobn thoob knoobwloobdgoob thoobt woobthoobn thoob voobst oobxpoobnsoob oobf thoob oobmoobgoobnoobtooboobn  oobnythoobng oobs poobssoobbloob  oobnd oobvoobry moobmoobnt oobs oobnfoobsoobd woobth doobvoobnoob moobgoobc
